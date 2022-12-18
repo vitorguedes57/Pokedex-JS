@@ -1,0 +1,2 @@
+pokemonImage.src = data['sprites']['versions']['generation-v']['black-white']['animated']['front_default'];
+}
